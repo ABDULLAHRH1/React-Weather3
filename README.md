@@ -35,4 +35,4 @@
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/ABDULLAHRH1//React-Weather.git
+   git clone https://github.com/ABDULLAHRH1/React-Weather3.git
