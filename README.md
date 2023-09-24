@@ -5,7 +5,7 @@
 <h1 align="center">🚀 My Super Cool Website 🚀</h1>
 
 <p align="center">
-  A stunning website showcasing my HTML, CSS, JavaScript, Tailwind CSS, and React skills with a touch of creativity.
+  A stunning website showcasing my HTML, CSS, JavaScript, and React skills with a touch of creativity.
 </p>
 
 <p align="center" style="font-size: 24px; color: #333; margin-top: 20px; font-family: 'Arial', sans-serif;">
